@@ -1,0 +1,1933 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.4.22)  25 OCT 2020 04:37
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2019-10-01> patch level 3
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/revtex4\revtex4.c
+ls"
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count80
+\@tbpen=\count81
+\@arstrutbox@hline=\box27
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count82
+\output=\toks14
+\@protection@box=\box28
+\@topmark@saved=\toks15
+\footins@saved=\box29
+\pagesofar=\box30
+\footbox=\box31
+\pagegrid@col=\count83
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count84
+\absbox=\box32
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count91
+\c@table=\count92
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty
+"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+\widetext@top=\box33
+\widetext@bot=\box34
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/revtex4\revsymb.s
+ty"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+
+Class revtex4 Warning: No Society specified, using generic APS style.
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/revtex4\aps.rtx"
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+) ("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/revtex4\10pt.rt
+x"
+File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\epsfig.s
+ty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer
+\tikz.sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pg
+f.sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+rcs.sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-common.tex"
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen106
+\pgfutil@tempdimb=\dimen107
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-common-lists.tex"))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-latex.def"
+\pgfutil@abb=\box35
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfrcs.code.tex"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revisio
+n.tex")
+Package: pgfrcs 2020/10/01 v3.1.6a (3.1.6a)
+))
+Package: pgf 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pg
+fcore.sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\p
+gfsys.sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys.code.tex"
+Package: pgfsys 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeys.code.tex"
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen108
+\pgf@y=\dimen109
+\pgf@xa=\dimen110
+\pgf@ya=\dimen111
+\pgf@xb=\dimen112
+\pgf@yb=\dimen113
+\pgf@xc=\dimen114
+\pgf@yc=\dimen115
+\pgf@xd=\dimen116
+\pgf@yd=\dimen117
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count94
+\c@pgf@countb=\count95
+\c@pgf@countc=\count96
+\c@pgf@countd=\count97
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count98
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgf.cfg"
+File: pgf.cfg 2020/10/01 v3.1.6a (3.1.6a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/10/01 v3.1.6a (3.1.6a)
+)))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfsyssoftpath@smallbuffer@items=\count99
+\pgfsyssoftpath@bigbuffer@items=\count100
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcore.code.tex"
+Package: pgfcore 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hcalc.code.tex"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hutil.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hparser.code.tex"
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count101
+\pgfmath@box=\box36
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.code.tex"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.basic.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.trigonometric.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.random.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.comparison.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.base.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.round.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.misc.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.integerarithmetics.code.tex")))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count102
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint
+.code.tex")
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@picminx=\dimen119
+\pgf@picmaxx=\dimen120
+\pgf@picminy=\dimen121
+\pgf@picmaxy=\dimen122
+\pgf@pathminx=\dimen123
+\pgf@pathmaxx=\dimen124
+\pgf@pathminy=\dimen125
+\pgf@pathmaxy=\dimen126
+\pgf@xx=\dimen127
+\pgf@xy=\dimen128
+\pgf@yx=\dimen129
+\pgf@yy=\dimen130
+\pgf@zx=\dimen131
+\pgf@zy=\dimen132
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@path@lastx=\dimen133
+\pgf@path@lasty=\dimen134
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@shorten@end@additional=\dimen135
+\pgf@shorten@start@additional=\dimen136
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count103
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgflinewidth=\dimen137
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@pt@x=\dimen138
+\pgf@pt@y=\dimen139
+\pgf@pt@temp=\dimen140
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfarrowsep=\dimen141
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@max=\dimen142
+\pgf@sys@shading@range@num=\count104
+\pgf@shadingcount=\count105
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfexternal@startupbox=\box40
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfnodeparttextbox=\box41
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility
+\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@nodesepstart=\dimen143
+\pgf@nodesepend=\dimen144
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility
+\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/10/01 v3.1.6a (3.1.6a)
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+for.sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+keys.sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeys.code.tex"))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.
+sty"
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex"))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gffor.code.tex"
+Package: pgffor 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex")
+\pgffor@iter=\dimen145
+\pgffor@skip=\dimen146
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz\tikz.code.tex"
+Package: tikz 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@plot@mark@count=\count106
+\pgfplotmarksize=\dimen147
+)
+\tikz@lastx=\dimen148
+\tikz@lasty=\dimen149
+\tikz@lastxsaved=\dimen150
+\tikz@lastysaved=\dimen151
+\tikz@lastmovetox=\dimen152
+\tikz@lastmovetoy=\dimen153
+\tikzleveldistance=\dimen154
+\tikzsiblingdistance=\dimen155
+\tikz@figbox=\box42
+\tikz@figbox@bg=\box43
+\tikz@tempbox=\box44
+\tikz@tempbox@bg=\box45
+\tikztreelevel=\count107
+\tikznumberofchildren=\count108
+\tikznumberofcurrentchild=\count109
+\tikz@fig@count=\count110
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+modulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfmatrixcurrentrow=\count111
+\pgfmatrixcurrentcolumn=\count112
+\pgf@matrix@numberofcolumns=\count113
+)
+\tikz@expandcount=\count114
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/s
+hapes\pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\arrowsize=\dimen156
+))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
+.sty"
+\lst@mode=\count115
+\lst@gtempboxa=\box46
+\lst@token=\toks31
+\lst@length=\count116
+\lst@currlwidth=\dimen157
+\lst@column=\count117
+\lst@pos=\count118
+\lst@lostspace=\dimen158
+\lst@width=\dimen159
+\lst@newlines=\count119
+\lst@lineno=\count120
+\lst@maxwidth=\dimen160
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.
+sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count121
+\lst@skipnumbers=\count122
+\lst@framebox=\box47
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
+.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+Class revtex4 Info: Unrecognized LaTeX tabular. Please update this document cla
+ss! (Proceeding with fingers crossed.) on input line 41.
+Class revtex4 Info: cite was not loaded (OK!) on input line 41.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 41.
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count123
+\scratchdimen=\dimen161
+\scratchbox=\box48
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen162
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks33
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.
+sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftex
+cmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+) ABD: EveryShipout initializing macros
+\c@lstlisting=\count129
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 56.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \caption
+             {Tabla I.I. Productos disponibles con sus precios }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+Package epstopdf Info: Source file: <Images/Diagrama.eps>
+(epstopdf)                    date: 2020-10-25 01:05:38
+(epstopdf)                    size: 87588 bytes
+(epstopdf)             Output file: <Images/Diagrama-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-25 03:53:56
+(epstopdf)                    size: 17962 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images/Diagrama-eps-convert
+ed-to.pdf Images/Diagrama.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Images/Diagrama-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/Diagrama-eps-converted-to.pdf, id=4, 1195.46625pt x 1687.30376pt>
+File: Images/Diagrama-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/Diagrama-eps-converted-to.pdf>
+Package pdftex.def Info: Images/Diagrama-eps-converted-to.pdf  used on input li
+ne 96.
+(pdftex.def)             Requested size: 298.86583pt x 421.8249pt.
+
+Overfull \hbox (52.86583pt too wide) in paragraph at lines 96--97
+ [][] 
+ []
+
+[1{C:/Users/Aaròn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Images
+/Diagrama-eps-converted-to.pdf>]
+<Images/Captura de pantalla (213).png, id=25, 456.20438pt x 780.66656pt>
+File: Images/Captura de pantalla (213).png Graphic file (type png)
+<use Images/Captura de pantalla (213).png>
+Package pdftex.def Info: Images/Captura de pantalla (213).png  used on input li
+ne 108.
+(pdftex.def)             Requested size: 136.86237pt x 234.20177pt.
+<Images/Captura de pantalla (214).png, id=27, 977.90344pt x 650.43pt>
+File: Images/Captura de pantalla (214).png Graphic file (type png)
+<use Images/Captura de pantalla (214).png>
+Package pdftex.def Info: Images/Captura de pantalla (214).png  used on input li
+ne 115.
+(pdftex.def)             Requested size: 195.57722pt x 130.0837pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 122.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 122.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 122.
+<Images/Paso1.PNG, id=28, 330.48468pt x 224.33812pt>
+File: Images/Paso1.PNG Graphic file (type png)
+<use Images/Paso1.PNG>
+Package pdftex.def Info: Images/Paso1.PNG  used on input line 128.
+(pdftex.def)             Requested size: 165.24193pt x 112.16878pt.
+<Images/Paso2.PNG, id=29, 293.59688pt x 275.52937pt>
+File: Images/Paso2.PNG Graphic file (type png)
+<use Images/Paso2.PNG>
+Package pdftex.def Info: Images/Paso2.PNG  used on input line 135.
+(pdftex.def)             Requested size: 146.79807pt x 137.76434pt.
+<Images/Paso3.PNG, id=30, 365.86688pt x 348.55219pt>
+File: Images/Paso3.PNG Graphic file (type png)
+<use Images/Paso3.PNG>
+Package pdftex.def Info: Images/Paso3.PNG  used on input line 142.
+(pdftex.def)             Requested size: 182.93298pt x 174.27565pt.
+ [2 <./Images/Captura de pantalla (213).png> <./Images/Captura de pantalla (214
+).png> <./Images/Paso1.PNG> <./Images/Paso2.PNG> <./Images/Paso3.PNG>] [3]
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1
+.sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1
+.sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+("C:\Users\Aaròn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.
+sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+) (Minishop.cpp
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 //Práctica 
+                1. ALmacén de pedidos
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 //Práctica 
+                1. ALmacén de pedidos
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 //Práctica 1. ALmacén 
+                            de pedidos
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 //Práctica 1. ALmacén 
+                            de pedidos
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 //Archundia Bazán 
+                       Aarón Antonio, Guerrero Vélez Eliseo Milton, Herná...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 //Archundia Bazán 
+                       Aarón Antonio, Guerrero Vélez Eliseo Milton, Herná...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 //Archundia Bazán Aarón 
+                              Antonio, Guerrero Vélez Eliseo Milton, Herná...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 //Archundia Bazán Aarón 
+                              Antonio, Guerrero Vélez Eliseo Milton, Herná...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...dia Bazán Aarón Antonio, Guerrero Vélez 
+                                                  Eliseo Milton, Hernández ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...dia Bazán Aarón Antonio, Guerrero Vélez 
+                                                  Eliseo Milton, Hernández ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... Guerrero Vélez Eliseo Milton, Hernández 
+                                                  Vázquez César Arturo
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... Guerrero Vélez Eliseo Milton, Hernández 
+                                                  Vázquez César Arturo
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... Vélez Eliseo Milton, Hernández Vázquez 
+                                                  César Arturo
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... Vélez Eliseo Milton, Hernández Vázquez 
+                                                  César Arturo
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... Eliseo Milton, Hernández Vázquez César 
+                                                  Arturo
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... Eliseo Milton, Hernández Vázquez César 
+                                                  Arturo
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 #include <iostream> //Biblioteca estándar
+                                              
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 #include <iostream> //Biblioteca estándar
+                                              
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...ra guardar el valor de la multiplicación 
+                                                  del precio y la cantidad d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...ra para insertar el producto del almacén 
+                                                  deseado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...ra para insertar el producto del almacén 
+                                                  deseado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (64.70644pt too wide) in paragraph at lines 37--38
+[][][][] 
+ []
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ... los productos disponibles en el almacén 
+                                                  con su respectico precio
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ... los productos disponibles en el almacén 
+                                                  con su respectico precio
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (64.70644pt too wide) in paragraph at lines 53--55
+[][][][] 
+ []
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ..."<<endl; //Imprime el texto para después 
+                                                  ingresar el producto que d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ..."<<endl; //Imprime el texto para después 
+                                                  ingresar el producto que d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ..."<<endl; //Imprime el texto para después 
+                                                  ingresar la cantidad del p...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ..."<<endl; //Imprime el texto para después 
+                                                  ingresar la cantidad del p...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...>cantidadvendida; //Se ingresa el número 
+                                                  que indica la cantidad del...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "BA.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...>cantidadvendida; //Se ingresa el número 
+                                                  que indica la cantidad del...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 1 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 1 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+[4]
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 2 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 2 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 3 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 3 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 4 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 4 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 5 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 ...dvendida; //Se realiza la multiplicación 
+                                                  del valor del producto 5 c...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 	cout<<"¿Desea 
+                     comprar otro producto? (s/n)"<<endl; //Se le pregunta a...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "BF.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 	cout<<"¿Desea 
+                     comprar otro producto? (s/n)"<<endl; //Se le pregunta a...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 ...compra"<<endl; //Se imprime que finalizó 
+                                                  la compra
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 ...compra"<<endl; //Se imprime que finalizó 
+                                                  la compra
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 ... linea de guiones bajos para la estética 
+                                                  del ticket
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 ... linea de guiones bajos para la estética 
+                                                  del ticket
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 	cout<<" "<<endl; //Se imprime un renglón 
+                                                vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 	cout<<" "<<endl; //Se imprime un renglón 
+                                                vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 ..." "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "AD.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 ..." "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "AD.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "AD.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+[5]
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "AD.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 ...linea de guiones bajos para la estética 
+                                                  del ticket
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 ...linea de guiones bajos para la estética 
+                                                  del ticket
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 	cout<<" "<<endl; //Se imprime un renglón 
+                                                 vacío
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte "AD.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 ... "<<endl; //Se imprime un renglón vacío
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+) [6] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 16421 strings out of 492484
+ 322303 string characters out of 3121148
+ 1078751 words of memory out of 3000000
+ 20484 multiletter control sequences out of 15000+200000
+ 7971 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,7n,62p,500b,1825s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Aaròn/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Aaròn/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Aaròn/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Aaròn/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Us
+ers/Aaròn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb><C:/Users/Aaròn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi5.pfb><C:/Users/Aaròn/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Aaròn/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Aaròn/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Aaròn/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Use
+rs/Aaròn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7
+.pfb><C:/Users/Aaròn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr9.pfb><C:/Users/Aaròn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Users/Aaròn/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Aaròn/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on main.pdf (6 pages, 313932 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+
