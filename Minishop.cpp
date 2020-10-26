@@ -4,12 +4,11 @@
 //#include <clocale> //Biblioteca para usar acentos
 #include <cctype> //Biblioteca para clasificar y transformar caracteres
 #include <iomanip> //Biblioteca para dar espacios
-#include<Windows.h>
 using namespace std;
 int main()
 {
-    SetConsoleOutputCP(CP_UTF8);
-   // setlocale(LC_ALL,""); //Hacer uso de acentos
+  
+    setlocale(LC_ALL,""); //Hacer uso de acentos
     cout<<"Almacen de pedidos Archundia-Guerrero-Hernandez"<<endl; //Se imprime en la consola el texto
 
     float producto1{2.98}; //Se declara la variable flotante para asignar el precio del producto 1
