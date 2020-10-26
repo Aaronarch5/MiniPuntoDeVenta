@@ -1,7 +1,7 @@
 //Práctica 1. ALmacén de pedidos
 //Archundia Bazán Aarón Antonio, Guerrero Vélez Eliseo Milton, Hernández Vázquez César Arturo
 #include <iostream> //Biblioteca estándar
-//#include <clocale> //Biblioteca para usar acentos
+#include <clocale> //Biblioteca para usar acentos
 #include <cctype> //Biblioteca para clasificar y transformar caracteres
 #include <iomanip> //Biblioteca para dar espacios
 using namespace std;
